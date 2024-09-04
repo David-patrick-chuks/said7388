@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+David+Patty....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🔭 Focusing on FullStack (Frontend + Backend ).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
@@ -68,19 +68,5 @@
 
 ---
 
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
-
----
 
 
-### Top Repositories
-
-
-<a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
-</a>
